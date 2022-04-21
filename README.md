@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/work-smarter-with-microsoft-onenote/9781801075664?utm_source=github&utm_medium=repository&utm_campaign=9781801075664"><img src="https://static.packt-cdn.com/products/9781801075664/cover/smaller" alt="Work Smarter with Microsoft OneNote" height="256px" align="right"></a>
 
-This is the code repository for [Work Smarter with Microsoft OneNote](https://www.packtpub.com/product/work-smarter-with-microsoft-onenote/9781801075664?utm_source=github&utm_medium=repository&utm_campaign=9781801075664), published by Packt.
+This is the errata page for [Work Smarter with Microsoft OneNote](https://www.packtpub.com/product/work-smarter-with-microsoft-onenote/9781801075664?utm_source=github&utm_medium=repository&utm_campaign=9781801075664), published by Packt.
 
 **An expert guide to setting up OneNote notebooks to become more organized, efficient, and productive**
 
