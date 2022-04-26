@@ -35,5 +35,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Microsoft 365 Word Tips and Tricks [[Packt]](https://www.packtpub.com/product/microsoft-365-word-tips-and-tricks/9781800565432?utm_source=github&utm_medium=repository&utm_campaign=9781800565432) [[Amazon]](https://www.amazon.com/dp/1800565437)
 
 ## Get to Know the Author
-**Connie Clark**
-With over 30 years of experience in computer software training, Connie Clark has taught and consulted with over 20,000 students. She helps to empower others and make them more productive with technology so they can achieve results. She's gained a reputation of teaching with patience and friendliness. She lives with her husband of 31 years and her two daughters on an acreage in Alberta. She likes to dance, but not exercise, always wanting things to be more fun and genuine. Check out her Mission Computers YouTube channel or reach out anytime by visiting her website.
+
+With over 30 years of experience in computer software training, **Connie Clark** has taught and consulted with over 20,000 students. She helps to empower others and make them more productive with technology so they can achieve results. She's gained a reputation of teaching with patience and friendliness. She lives with her husband of 31 years and her two daughters on an acreage in Alberta. She likes to dance, but not exercise, always wanting things to be more fun and genuine. Check out her Mission Computers YouTube channel or reach out anytime by visiting her website.
